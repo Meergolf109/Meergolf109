@@ -15,7 +15,7 @@ Hey i'm Meergolf109, a Developer from Germany!
 👩‍💻 I'm currently working on Meergame
 
 ## 🛠 Skills
-C#, JavaScript, HTML, CSS
+C#, HTML, CSS
 
 
 ## Stats
